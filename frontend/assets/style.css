@@ -1,0 +1,162 @@
+@font-face {
+  font-family: 'sb';
+  src:  url('fonts/sb.eot?b31kr9');
+  src:  url('fonts/sb.eot?b31kr9#iefix') format('embedded-opentype'),
+    url('fonts/sb.ttf?b31kr9') format('truetype'),
+    url('fonts/sb.woff?b31kr9') format('woff'),
+    url('fonts/sb.svg?b31kr9#sb') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'sb' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-check-circle .path1:before {
+  content: "\e907";
+  color: rgb(101, 177, 104);
+}
+.icon-check-circle .path2:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-upload:before {
+  content: "\e906";
+  color: #9696a0;
+}
+.icon-tick:before {
+  content: "\e905";
+}
+.icon-hiden-eye:before {
+  content: "\e904";
+  color: #787885;
+}
+.icon-graphic-placeholder-square .path1:before {
+  content: "\e900";
+  color: rgb(242, 244, 248);
+}
+.icon-graphic-placeholder-square .path2:before {
+  content: "\e901";
+  margin-left: -0.9921875em;
+  color: rgb(223, 228, 234);
+}
+.icon-graphic-placeholder-square .path3:before {
+  content: "\e902";
+  margin-left: -0.9921875em;
+  color: rgb(255, 255, 255);
+}
+.icon-graphic-placeholder-square .path4:before {
+  content: "\e903";
+  margin-left: -0.9921875em;
+  color: rgb(255, 255, 255);
+}
+.icon-devider:before {
+  content: "\e909";
+}
+.icon-search:before {
+  content: "\e90a";
+  color: #787885;
+}
+.icon-notification:before {
+  content: "\e90b";
+  color: #4f91ff;
+}
+.icon-filter_list:before {
+  content: "\e90c";
+}
+.icon-plus:before {
+  content: "\e90d";
+  color: #4f91ff;
+}
+.icon-three-dots:before {
+  content: "\e90e";
+  color: #787885;
+}
+.icon-share:before {
+  content: "\e90f";
+}
+.icon-edit:before {
+  content: "\e910";
+}
+.icon-triangle:before {
+  content: "\e911";
+  color: #2979ff;
+}
+.icon-calender:before {
+  content: "\e912";
+  color: #2979ff;
+}
+.icon-check-mark:before {
+  content: "\e913";
+  color: #2979ff;
+}
+.icon-help:before {
+  content: "\e914";
+  color: #fff;
+}
+.icon-template .path1:before {
+  content: "\e915";
+  color: none;
+}
+.icon-template .path2:before {
+  content: "\e916";
+  margin-left: -0.900390625em;
+  color: rgb(90, 91, 106);
+}
+.icon-template .path3:before {
+  content: "\e917";
+  margin-left: -0.900390625em;
+  color: rgb(90, 91, 106);
+}
+.icon-template .path4:before {
+  content: "\e918";
+  margin-left: -0.900390625em;
+  color: rgb(120, 120, 133);
+}
+.icon-template .path5:before {
+  content: "\e919";
+  margin-left: -0.900390625em;
+  color: rgb(120, 120, 133);
+}
+.icon-template .path6:before {
+  content: "\e91a";
+  margin-left: -0.900390625em;
+  color: rgb(90, 91, 106);
+}
+.icon-template .path7:before {
+  content: "\e91b";
+  margin-left: -0.900390625em;
+  color: rgb(90, 91, 106);
+}
+.icon-template .path8:before {
+  content: "\e91c";
+  margin-left: -0.900390625em;
+  color: rgb(90, 91, 106);
+}
+.icon-template .path9:before {
+  content: "\e91d";
+  margin-left: -0.900390625em;
+  color: rgb(90, 91, 106);
+}
+.icon-edit-note:before {
+  content: "\e91e";
+  color: #5a5b6a;
+}
+.icon-date-picker:before {
+  content: "\e91f";
+  color: #5a5b6a;
+}
